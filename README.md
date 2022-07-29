@@ -1,3 +1,3 @@
 # Msumash-UI
 
-shu takahashi
+shu takahashi : javascript勉強したい人
