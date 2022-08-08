@@ -1,0 +1,6 @@
+.idea
+*.xml
+*.iml
+
+*/target
+.DS_Store
