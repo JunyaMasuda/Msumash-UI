@@ -1,3 +1,15 @@
+# Msumash-UI
+
+mj : ゼルダの足フェチ
+shu takahashi : javascript 勉強したい人
+
+スマブラ好きよね〜
+
+## 環境とか
+
+Node.js v16.16.0.
+package manager : npm
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
