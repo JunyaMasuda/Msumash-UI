@@ -11,6 +11,12 @@ shu takahashi : javascript 勉強したい人
 Node.js v16.16.0.
 package manager : npm
 
+## 動かし方
+
+git clone https://github.com/JunyaMasuda/Msumash-UI.git
+npm i
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
