@@ -1,6 +1,7 @@
 # Msumash-UI
 
 mj : ゼルダの足フェチ
+
 shu takahashi : javascript 勉強したい人
 
 スマブラ好きよね〜
