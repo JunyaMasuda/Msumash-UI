@@ -13,9 +13,11 @@ package manager : npm
 
 ## 動かし方
 
+```
 git clone https://github.com/JunyaMasuda/Msumash-UI.git
 npm i
 npm start
+```
 
 # Getting Started with Create React App
 
