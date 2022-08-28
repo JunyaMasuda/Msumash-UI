@@ -18,8 +18,10 @@ const MatchMaker = () => {
   const [playerNameText, setPlayerNameText] = useState<string>("");
   const addPlayer = () => {
     const p: Player = { name: playerNameText };
-    setPlayerList([...playerList, p]);
-    setPlayerNameText("");
+    if (p.name){
+      setPlayerList([...playerList, p]);
+      setPlayerNameText("");
+    }
   };
 
   return (
